@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Cloudy.png</file>
+        <file>img/CloudyNight.png</file>
+        <file>img/CloudytoSunny.png</file>
+        <file>img/freezingRain.png</file>
+        <file>img/Gale.png</file>
+        <file>img/heaveRain.png</file>
+        <file>img/heavyFog.png</file>
+        <file>img/lightFog.png</file>
+        <file>img/LightningNight.png</file>
+        <file>img/lightRain.png</file>
+        <file>img/Night.png</file>
+        <file>img/ShowersRain.png</file>
+        <file>img/Sleet.png</file>
+        <file>img/Snow.png</file>
+        <file>img/Sonwshowers.png</file>
+        <file>img/Sunny.png</file>
+        <file>img/Sunrise.png</file>
+        <file>img/Sunset.png</file>
+        <file>img/Thunder.png</file>
+        <file>img/ThundershowerNight.png</file>
+        <file>img/ThundersRain.png</file>
+        <file>img/ThundersshowersRain.png</file>
+        <file>img/Airquantity.png</file>
+        <file>img/humidity.png</file>
+        <file>img/PM2.5.png</file>
+        <file>img/Windlevel.png</file>
+        <file>search.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>search.png</file>
+        <file>img/closewindow.png</file>
+    </qresource>
+    <qresource prefix="/ico"/>
+</RCC>
